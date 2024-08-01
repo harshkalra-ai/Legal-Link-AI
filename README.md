@@ -4,27 +4,27 @@ Legal-Link-AI is a FastAPI-based application designed to manage and interact wit
 
 ## Technology Stack
 
-Python
-FastAPI
-OpenAI
-Pinecone
-MySQL
-Langchain
+- **Python**
+- **FastAPI**
+- **OpenAI**
+- **Pinecone**
+- **MySQL**
+- **Langchain**
 
 ## Getting Started
 
 ### Prerequisites
 
- Python 3.8+
- FastAPI
- OpenAI API key
- Pinecone API key
- MySQL database
- Langchain
+- Python 3.8+
+- FastAPI
+- OpenAI API key
+- Pinecone API key
+- MySQL database
+- Langchain
 
 ### Installation
 
-1. *Clone the repository:
+1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/Legal-Link-AI.git
    cd Legal-Link-AI
